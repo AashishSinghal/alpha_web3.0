@@ -23,6 +23,7 @@ export const TransactionContext = React.createContext(
 declare global {
   interface Window {
     ethereum: any;
+    reload: () => void;
   }
 }
 
