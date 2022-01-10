@@ -2,9 +2,9 @@
 ![Krypt](https://i.ibb.co/DVF4tNW/image.png)
 
 ## Introduction
-This is a code repository for the corresponding video tutorial.
+This is a Crypto Exchange Platform Demo project in order to step up my learnings in the Web3 domain
 
-Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
+Using Web 3.0 methodologies, Solidity and Metamask I learn how to build a your first real Web 3.0 Application - from start to finish.
 
 Project created in collaboration with Enyel Sequeira: 
 Portfolio - https://www.enyelsequeira.com
