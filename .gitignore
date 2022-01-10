@@ -35,6 +35,18 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+#Hardhat files
+cache
+artifacts
+coverage
+coverage.json
+typechain
 
 # TypeScript v1 declaration files
 typings/
